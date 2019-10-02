@@ -1,8 +1,10 @@
-What's the weather like as we approach the equator? Whether financial, political, or social -- data's true power lies in its ability, I know what you may be thinking: "Obviously. It gets hotter..."But, if pressed, how would I prove it?
+# What's the weather like as we approach the equator? 
+
+Whether financial, political, or social -- data's true power lies in its ability, I know what you may be thinking: "Obviously. It gets hotter..."But, if pressed, how would I prove it?
 
 For this analysis I have created a simple Python script to visualize the weather of 500+ cities across the 	world of varying distance from the equator. To accomplish this, I used a simple Python library called citipy, the OpenWeatherMap API, and a little voodoo to create a representative model of weather across world cities.
 
-Objective:
+## Objective:
  A series of scatter plots were created to showcase the following relationships
 
 ## Temp(F) vs. Latitude:
