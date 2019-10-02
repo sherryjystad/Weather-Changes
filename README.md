@@ -8,7 +8,9 @@ For this analysis I have created a simple Python script to visualize the weather
  A series of scatter plots were created to showcase the following relationships
 
 ## Temp(F) vs. Latitude:
-https://github.com/sherryjystad/Weather-Changes/blob/master/TemperatureInWorldCities.png
+![TemperatureInWorldCities.png](TemperatureInWorldCities.png)
+
+https://github.com/sherryjystad/Weather-Changes/blob/master/
 
 From this scatterplot, the weather becomes significantly warmer as one approaches the equator (0 Deg. Latitude). Upon observation of the above scatterplot, more cities gather at the 60-80-degree temperature between latitude 0-20 and 60-80 degree temperature between latitude 30-50. Is it due to the fact that the southern hemisphere tends to be warmer this time of year than the northern hemisphere. This may be due to the tilt of the earth and how the sun is hitting this point of earth.
 
