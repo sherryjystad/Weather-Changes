@@ -5,14 +5,15 @@ For this analysis I have created a simple Python script to visualize the weather
 Objective:
  A series of scatter plots were created to showcase the following relationships
 
-Temperature (F) vs. Latitude:
+#Temp(F) vs. Latitude:
 https://github.com/sherryjystad/Weather-Changes/blob/master/TemperatureInWorldCities.png
 
 From this scatterplot, the weather becomes significantly warmer as one approaches the equator (0 Deg. Latitude). Upon observation of the above scatterplot, more cities gather at the 60-80-degree temperature between latitude 0-20 and 60-80 degree temperature between latitude 30-50. Is it due to the fact that the southern hemisphere tends to be warmer this time of year than the northern hemisphere. This may be due to the tilt of the earth and how the sun is hitting this point of earth.
 
-Humidity (%) vs. Latitude
+#Humidity (%) vs. Latitude
 https://github.com/sherryjystad/Weather-Changes/blob/master/Lat_vs_humidity.png
-•	From this scatterplot, it seems more people living in humid areas between 60-100% between latitude 0-20. The temperature tends to be a tropical rainforest or equatorial climate. Some cities on the equator line are Quito, Ecuador (0° 15′ 0″ S), Nairobi, Kenya (1°17′0″S), Medan, Indonesia (3° 35′ 0″ N)., Singapore (1° 17′ 0″ N), Kuala Lumpur, Malaysia (3° 8′ 51″ N). Why are there so many cities in this concentrated area? It’s a tourist destination! That’s how people in the city depend on their income, tourism.
+
+From this scatterplot, it seems more people living in humid areas between 60-100% between latitude 0-20. The temperature tends to be a tropical rainforest or equatorial climate. Some cities on the equator line are Quito, Ecuador (0° 15′ 0″ S), Nairobi, Kenya (1°17′0″S), Medan, Indonesia (3° 35′ 0″ N)., Singapore (1° 17′ 0″ N), Kuala Lumpur, Malaysia (3° 8′ 51″ N). Why are there so many cities in this concentrated area? It’s a tourist destination! That’s how people in the city depend on their income, tourism.
 
 Cloudiness (%) vs. Latitude
 https://github.com/sherryjystad/Weather-Changes/blob/master/Lat_vs_Cloudiness.png
